@@ -12,5 +12,6 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-10-14](2026-10-14/) | Engineered Chimeric Proteins Functionally Replace ALS-causing Endogenous FUS and TDP-43 to Improve Neuronal Health (bioRxiv preprint, Oct 2, 2026) |
 | [2026-10-13](2026-10-13/) | Human iPSC-derived motor neurons with TDP-43 nuclear loss present early ALS pathological phenotypes (Communications Biology, Oct 10, 2026) |
 | [2026-10-12](2026-10-12/) | UNC13A splice correction rescues synaptic dysfunction induced by TDP-43 loss (Nature, accepted Oct 6, 2026) |
