@@ -12,6 +12,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-10-21](2026-10-21/) | OGT regulates RNA-binding protein nucleocytoplasmic partitioning, but this fails in amyotrophic lateral sclerosis (iScience, Oct 8, 2026) |
 | [2026-10-20](2026-10-20/) | Immune effects of faecal microbiota transplantation in amyotrophic lateral sclerosis: the FETR-ALS pilot randomised, sham-controlled trial (eBioMedicine, Oct 8, 2026) |
 | [2026-10-19](2026-10-19/) | Multiple motor proteins regulate TDP-43 anterograde axonal transport (Acta Neuropathologica, Oct 9, 2026) |
 | [2026-10-18](2026-10-18/) | Ataxin-2 downregulation rewires neuronal and astrocytic metabolism to protect against TDP-43 toxicity (Cell Reports, Oct 15, 2026) |
