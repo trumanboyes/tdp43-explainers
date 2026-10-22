@@ -4,6 +4,7 @@ Short (2–3 minute) plain-English video explainers of recent ALS and TDP-43 res
 
 Each dated folder contains:
 - `video.mp4` — narrated slide video
+- `audio.mp3` — narration audio only (from 2026-10-22 on)
 - `script.md` — the full narration script
 - `paper.md` — citation and links to the original paper
 
@@ -12,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-10-22](2026-10-22/) | EARLY-ALS: a multicentre study on prodromal amyotrophic lateral sclerosis (eBioMedicine, Oct 9, 2026) |
 | [2026-10-21](2026-10-21/) | OGT regulates RNA-binding protein nucleocytoplasmic partitioning, but this fails in amyotrophic lateral sclerosis (iScience, Oct 8, 2026) |
 | [2026-10-20](2026-10-20/) | Immune effects of faecal microbiota transplantation in amyotrophic lateral sclerosis: the FETR-ALS pilot randomised, sham-controlled trial (eBioMedicine, Oct 8, 2026) |
 | [2026-10-19](2026-10-19/) | Multiple motor proteins regulate TDP-43 anterograde axonal transport (Acta Neuropathologica, Oct 9, 2026) |
