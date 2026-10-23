@@ -13,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-10-23](2026-10-23/) | Redox surveillance of stress granules prevents TDP-43 aggregation (bioRxiv preprint, Oct 19, 2026) |
 | [2026-10-22](2026-10-22/) | EARLY-ALS: a multicentre study on prodromal amyotrophic lateral sclerosis (eBioMedicine, Oct 9, 2026) |
 | [2026-10-21](2026-10-21/) | OGT regulates RNA-binding protein nucleocytoplasmic partitioning, but this fails in amyotrophic lateral sclerosis (iScience, Oct 8, 2026) |
 | [2026-10-20](2026-10-20/) | Immune effects of faecal microbiota transplantation in amyotrophic lateral sclerosis: the FETR-ALS pilot randomised, sham-controlled trial (eBioMedicine, Oct 8, 2026) |
