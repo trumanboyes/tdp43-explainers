@@ -13,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-10-24](2026-10-24/) | Cerebrospinal fluid amyloid and neurodegeneration biomarkers in the diagnosis and prognosis of amyotrophic lateral sclerosis: a multicohort observational study (eBioMedicine, Oct 20, 2026) |
 | [2026-10-23](2026-10-23/) | Redox surveillance of stress granules prevents TDP-43 aggregation (bioRxiv preprint, Oct 19, 2026) |
 | [2026-10-22](2026-10-22/) | EARLY-ALS: a multicentre study on prodromal amyotrophic lateral sclerosis (eBioMedicine, Oct 9, 2026) |
 | [2026-10-21](2026-10-21/) | OGT regulates RNA-binding protein nucleocytoplasmic partitioning, but this fails in amyotrophic lateral sclerosis (iScience, Oct 8, 2026) |
