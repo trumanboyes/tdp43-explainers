@@ -1,8 +1,8 @@
 # Script: CBDA (cannabidiolic acid) and ALS — special episode
 
-*Narrated by ElevenLabs (voice: Carolyn). Plain-English explainer, not medical advice. Based on CBDA_primer.md (Oct 24, 2026).*
+*Narrated by ElevenLabs (voice: Carolyn). Plain-English explainer for people with ALS and their families, not medical advice. Based on CBDA_primer.md (Oct 24, 2026).*
 
-Hi Truman. This is a special episode about CBDA, short for cannabidiolic acid, and what the research does and does not say about it in ALS.
+Welcome to this special episode for people living with ALS and their families. Today's topic is CBDA, short for cannabidiolic acid, and what the research does and does not say about it in ALS.
 
 First, what it is. CBDA is the raw, acidic form of CBD found in the hemp plant. Heat turns it into CBD. Like CBD, it is not intoxicating.
 
@@ -16,11 +16,11 @@ You may hear that CBDA helps with nausea. That anti-nausea effect has been shown
 
 Have any cannabis medicines been tested in ALS? Yes. In the CANALS trial, Sativex, also called nabiximols, a spray containing THC and CBD, gave a modest benefit for spasticity in fifty-nine people over six weeks. That is symptom relief. No cannabinoid has been shown to slow ALS.
 
-Safety and interactions. Interactions between CBDA and riluzole are untested. Riluzole can raise liver enzymes, so liver tests make sense before and after starting anything new. Watch for added sleepiness if you take baclofen. And watch appetite and weight, because CBD can reduce appetite, and weight loss matters in ALS.
+Safety and interactions. Interactions between CBDA and riluzole are untested. Riluzole can raise liver enzymes, so liver tests make sense before and after starting anything new. If you take baclofen, watch for added sleepiness. And watch appetite and weight, because CBD can reduce appetite, and weight loss matters in ALS.
 
-On the law: New Jersey law, and a federal rule scheduled to take effect in December, cap hemp products at zero point four milligrams of total THC per container. Many full-spectrum products would exceed that. Quality varies, so any product should have a recent lab certificate.
+On the law: New Jersey law, and a federal rule scheduled to take effect on December eleventh, 2026, cap hemp products at zero point four milligrams of total THC per container. Many full-spectrum products would exceed that. Quality varies, so any product should have a recent lab certificate.
 
-Bottom line: CBDA is interesting, but it is not a cure, and nothing here shows it slows ALS in people. Most importantly, because you are in the HEALEY Regimen trial, please clear any new supplement with your HEALEY coordinator and Doctor Harms first. Unapproved supplements can affect your trial participation.
+Bottom line: CBDA is interesting, but it is not a cure, and nothing here shows it slows ALS in people. Talk to your ALS doctor before trying any supplement. And if you're in a clinical trial, check with the study team first, since unapproved supplements can affect participation.
 
 This is educational, not medical advice. Thanks for listening.
 

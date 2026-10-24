@@ -8,4 +8,4 @@
 6. **Drug interactions.** Cannabinoid–drug interaction review, PMC9871609; riluzole and Epidiolex prescribing information (background).
 7. **Hemp law.** Federal: Nov 2025 continuing resolution hemp redefinition (CRS IF13136), 0.4 mg total THC per container, effective date delayed to Dec 11, 2026 (Vicente LLP). New Jersey: P.L.2025, c.215; nj.gov/cannabis/resources/faqs/intoxicating-hemp/.
 
-Not medical advice. Any new supplement should be cleared with the HEALEY coordinator and Dr. Harms before use.
+Not medical advice. Talk to your ALS doctor before trying any supplement, and if you're in a clinical trial, check with the study team first, since unapproved supplements can affect participation.
