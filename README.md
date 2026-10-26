@@ -13,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-10-26](2026-10-26/) | CCT2 expression marks a translation-activated state in sporadic ALS motor neurons and is associated with functional decline (bioRxiv preprint, Oct 8, 2026) |
 | [2026-10-25](2026-10-25/) | Tau isoform mapping across tissues and biofluids reveals a signature distinguishing Alzheimer's disease from amyotrophic lateral sclerosis (Nature Communications, Oct 22, 2026) |
 | [special-cbda](special-cbda/) | Special episode: CBDA (cannabidiolic acid) and ALS — what the evidence does and doesn't show (Oct 24, 2026) |
 | [2026-10-24](2026-10-24/) | Cerebrospinal fluid amyloid and neurodegeneration biomarkers in the diagnosis and prognosis of amyotrophic lateral sclerosis: a multicohort observational study (eBioMedicine, Oct 20, 2026) |
