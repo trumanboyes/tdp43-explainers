@@ -12,7 +12,7 @@ Click on a peak and you get a mass spectrum. Now the bottom axis is m over z. Be
 
 You'll also see smaller extra peaks. Fragments appear when a molecule breaks apart in the instrument; a loss of eighteen usually means it shed a water molecule. Isotope peaks sit one or two units above the main peak, because a small share of carbon atoms are the heavier carbon-thirteen.
 
-Here's a worked example using mannitol, a sugar alcohol often used as a filler in tablets. Its molecular weight is about one eighty-two. In positive mode you might see one eighty-three for M plus H, two oh five for M plus Na, and one sixty-five, which is M plus H after losing a water. Three peaks, one compound. That's a common way fillers and other inactive ingredients show up.
+Here's a worked example using caffeine, a familiar compound with a mass of about one ninety-four. In positive mode you'd expect a main peak at about one ninety-five, which is M plus H, and perhaps two seventeen, M plus Na. Just above one ninety-five sits a small isotope peak at one ninety-six. And if the instrument breaks the molecule apart, a well-known fragment appears near one thirty-eight, after caffeine loses a piece weighing fifty-seven. Several peaks, one compound.
 
 Now the limits. A single run cannot prove that something is absent. A compound may not ionize well in the chosen mode, may be below the detection limit, or may fall outside the mass range that was scanned. And a match in mass alone is a clue, not an identity; confirmation needs a reference standard run under the same conditions, matching both retention time and spectrum.
 
