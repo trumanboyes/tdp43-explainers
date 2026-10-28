@@ -13,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-10-28](2026-10-28/) | Plasma Proteomic Signatures Predict Incident Amyotrophic Lateral Sclerosis: A Prospective Study Stratified by C9orf72 Expansion (Journal of Cachexia, Sarcopenia and Muscle, Oct 20, 2026) |
 | [2026-10-27](2026-10-27/) | Fine-tuning genomic models on rare splicing events identifies a novel biomarker of TDP-43 pathology (bioRxiv preprint, Oct 9, 2026) |
 | [2026-10-26](2026-10-26/) | CCT2 expression marks a translation-activated state in sporadic ALS motor neurons and is associated with functional decline (bioRxiv preprint, Oct 8, 2026) |
 | [2026-10-25](2026-10-25/) | Tau isoform mapping across tissues and biofluids reveals a signature distinguishing Alzheimer's disease from amyotrophic lateral sclerosis (Nature Communications, Oct 22, 2026) |
