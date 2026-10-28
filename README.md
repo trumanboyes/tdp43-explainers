@@ -13,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [special-cbga](special-cbga/) | Special episode: CBGA (cannabigerolic acid) and ALS — what the evidence does and doesn't show (Oct 28, 2026) |
 | [2026-10-28](2026-10-28/) | Plasma Proteomic Signatures Predict Incident Amyotrophic Lateral Sclerosis: A Prospective Study Stratified by C9orf72 Expansion (Journal of Cachexia, Sarcopenia and Muscle, Oct 20, 2026) |
 | [2026-10-27](2026-10-27/) | Fine-tuning genomic models on rare splicing events identifies a novel biomarker of TDP-43 pathology (bioRxiv preprint, Oct 9, 2026) |
 | [2026-10-26](2026-10-26/) | CCT2 expression marks a translation-activated state in sporadic ALS motor neurons and is associated with functional decline (bioRxiv preprint, Oct 8, 2026) |
