@@ -13,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-10-30](2026-10-30/) | Plasma Lipidome Is Dysregulated in Amyotrophic Lateral Sclerosis and Associated With Life-Course Adiposity Polygenic Risk (Journal of Cachexia, Sarcopenia and Muscle, Oct 21, 2026) |
 | [2026-10-29](2026-10-29/) | Salivary Dim-Light Melatonin Onset is Associated with Functional Decline, Respiratory Symptom Emergence, and Survival in Early Amyotrophic Lateral Sclerosis (Annals of Neurology, Oct 16, 2026) |
 | [2026-10-28](2026-10-28/) | Plasma Proteomic Signatures Predict Incident Amyotrophic Lateral Sclerosis: A Prospective Study Stratified by C9orf72 Expansion (Journal of Cachexia, Sarcopenia and Muscle, Oct 20, 2026) |
 | [2026-10-27](2026-10-27/) | Fine-tuning genomic models on rare splicing events identifies a novel biomarker of TDP-43 pathology (bioRxiv preprint, Oct 9, 2026) |
