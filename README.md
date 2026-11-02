@@ -13,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-11-02](2026-11-02/) | Anatomically Defined Motor Phenotypes Reveal Dissociated Trajectories of Progression, Neurofilament Profiles, and Survival in ALS (European Journal of Neurology, Oct 27, 2026) |
 | [2026-11-01](2026-11-01/) | Persistent and compartmentalized T cell immunity in ALS (Nature Medicine, Oct 27, 2026) |
 | [2026-10-31](2026-10-31/) | Cerebrospinal fluid alpha-synuclein seed amplification assay positivity identifies a prognostically distinct subgroup in amyotrophic lateral sclerosis (medRxiv preprint, Oct 26, 2026) |
 | [2026-10-30](2026-10-30/) | Plasma Lipidome Is Dysregulated in Amyotrophic Lateral Sclerosis and Associated With Life-Course Adiposity Polygenic Risk (Journal of Cachexia, Sarcopenia and Muscle, Oct 21, 2026) |
