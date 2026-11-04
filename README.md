@@ -13,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-11-04](2026-11-04/) | Rate and Shape of Functional Decline in Amyotrophic Lateral Sclerosis Identify Clinically Distinct Amyotrophic Lateral Sclerosis Phenotypes (Annals of Neurology, Oct 27, 2026) |
 | [2026-11-03](2026-11-03/) | Multiscale Transcriptomic Architecture of the ALS Motor Cortex (bioRxiv preprint, Oct 30, 2026) |
 | [2026-11-02](2026-11-02/) | Anatomically Defined Motor Phenotypes Reveal Dissociated Trajectories of Progression, Neurofilament Profiles, and Survival in ALS (European Journal of Neurology, Oct 27, 2026) |
 | [2026-11-01](2026-11-01/) | Persistent and compartmentalized T cell immunity in ALS (Nature Medicine, Oct 27, 2026) |
