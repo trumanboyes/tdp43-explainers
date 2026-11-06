@@ -13,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-11-06](2026-11-06/) | TMEM106B C-Terminal fragment aggregation exacerbates α−synuclein and TDP-43 proteinopathy phenotypes (bioRxiv preprint, Oct 30, 2026) |
 | [2026-11-05](2026-11-05/) | Donor Aware Reanalysis of Neuronal Nuclei Supports STMN2 Depletion Associated with Nuclear TDP-43 Loss in FTD and ALS (bioRxiv preprint, Nov 3, 2026) |
 | [2026-11-04](2026-11-04/) | Rate and Shape of Functional Decline in Amyotrophic Lateral Sclerosis Identify Clinically Distinct Amyotrophic Lateral Sclerosis Phenotypes (Annals of Neurology, Oct 27, 2026) |
 | [2026-11-03](2026-11-03/) | Multiscale Transcriptomic Architecture of the ALS Motor Cortex (bioRxiv preprint, Oct 30, 2026) |
