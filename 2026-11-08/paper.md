@@ -1,0 +1,11 @@
+# Paper
+
+**The TNKS/PI31–proteasome axis as a central node in TDP-43 neuropathies**
+Pitchapa Bubphachat, Pritha Majumder, I-Fang Wang, Jeffrey K. Huang, Tzu-Jen Kao, Yi-Chao Lee, Che-Kun James Shen, Guan-Chou Chen, Po-Chih Chen, Chi-Chen Sarah Huang (Taipei Medical University and partner institutions, Taiwan).
+*Journal of Biomedical Science* 33:94. Received Jun 20, 2026; accepted Oct 22, 2026; published November 4, 2026. Open access, CC BY 4.0. PMID 42983429; PMCID PMC13733214.
+
+- DOI: https://doi.org/10.1186/s12929-026-01296-1
+- PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC13733214/
+
+## One-line note
+Cell and mouse study of how pathological TDP-43 impairs the proteasome (the cell's protein-degradation machine). Models: N2a and NSC34 cells expressing GFP-tagged TDP-43 full-length, the A315T mutant, or the TDP-25 fragment; primary mouse cortical, hippocampal and spinal motor neurons; and Prp-TDP-43A315T transgenic mice. All pathological TDP-43 species (mostly insoluble oligomers rather than visible aggregates for full-length and A315T) reduced 20S proteasome activity and raised polyubiquitinated proteins. Live imaging of MV151-labelled 20S proteasomes showed reduced axonal movement: in motor neurons from A315T mice, 36% of proteasomes were moving vs 57% in wild-type, with lower velocity and net displacement, and 20S proteasomes, PI31 and TDP-43 accumulated in the soma and proximal axon. Mechanism: tankyrase (TNKS1/2) normally ADP-ribosylates PI31, promoting 19S/20S (26S) proteasome assembly; pathological TDP-43 bound TNKS and sequestered it into insoluble fractions, lowering TNKS–PI31 interaction, PI31 ADP-ribosylation and 26S assembly in A315T mouse spinal cord. The TNKS inhibitor XAV939 recapitulated the activity and transport defects in wild-type neurons. A TDP-43 mutant unable to bind TNKS (H166A/I168A in RRM1) aggregated more but sequestered less TNKS and impaired 20S activity less, suggesting aggregation alone is not sufficient. Caveats: cell lines and overexpression models plus one rare familial mutation in mice; no human tissue or patient-derived neurons; no therapy tested. Authors propose testing in patient iPSC motor neurons and designing peptides that block the TDP-43–TNKS interaction. Summary based on the full article text (PMC).
