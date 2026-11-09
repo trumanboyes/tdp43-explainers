@@ -1,0 +1,12 @@
+# Paper
+
+**Efficacy and tolerability of D-β-hydroxybutyrate ester in patients with amyotrophic lateral sclerosis (KETO-ALS) — a randomised, placebo-controlled, double-blind study**
+Herrmann C, Jagodzinski L, Elmas Z, Herschmann T, Fröhlich E, Bachhuber F, Ruschitzka T, Willkomm F, Parlak Ö, Weiland U, Becker F, Richter L, Wiesenfarth M, Uzelac Z, Michels S, Witzel S, Tumani H, Weishaupt JH, Maier L, Mayer B, Dreyhaupt J, Schuster J, Dorst J (Department of Neurology, Ulm University, Germany).
+*eClinicalMedicine*, published online October 26, 2026 (November 2026 issue). Open access, CC BY 4.0. PMID 42990966; PMCID PMC13734945. ClinicalTrials.gov NCT04820478.
+
+- DOI: https://doi.org/10.1016/j.eclinm.2026.104272
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/42990966/
+- PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC13734945/
+
+## One-line note
+Single-centre, randomised, double-blind, placebo-controlled phase 2 trial. 81 people with ALS (progression ≥0.33 ALSFRS-R points/month, on stable riluzole) received oral D-β-hydroxybutyrate ester (KE4, 10 g three times daily, 30 g/day) or placebo for 6 months (Apr 2022–Feb 2025). Primary endpoint: serum neurofilament light (NfL) slope. Unadjusted: −0.5 vs 0.0 pg/mL/month, p = 0.094 (one-sided). Adjusted post hoc for baseline NfL, age, BMI and slow vital capacity: −1.5 vs +2.8, mean difference −4.2 pg/mL/month, p = 0.014; a linear mixed-effects sensitivity model was not significant (p = 0.30). Baseline imbalance: the ketone group had higher NfL and lower vital capacity; the placebo group was older. ALSFRS-R declined faster in the ketone group unadjusted (−1.4 vs −0.8 points/month, p = 0.020; adjusted p = 0.30); no differences in BMI, vital capacity or survival; quality of life (EQ-5D-5L) declined more slowly on ketones after adjustment (p = 0.040). About 70% of participants were hypermetabolic (metabolic ratio >110%). Subgroups with higher baseline NfL or higher baseline ALSFRS-R showed larger NfL effects (hypothesis-generating). Well tolerated: no intervention-related serious adverse events; nausea/vomiting more common on placebo (29.3% vs 7.5%); 22% dropped out overall, mostly due to bad taste and visit burden. Authors call for a larger, longer phase 3 trial with clinical endpoints and a better-tasting formulation. Investigator-initiated, funded by a private donation. Summary based on the full article text (Europe PMC full-text XML).
