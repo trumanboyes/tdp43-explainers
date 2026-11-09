@@ -13,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-11-09](2026-11-09/) | Efficacy and tolerability of D-β-hydroxybutyrate ester in patients with amyotrophic lateral sclerosis (KETO-ALS) (eClinicalMedicine, Oct 26, 2026) |
 | [2026-11-08](2026-11-08/) | The TNKS/PI31–proteasome axis as a central node in TDP-43 neuropathies (Journal of Biomedical Science, Nov 4, 2026) |
 | [2026-11-07](2026-11-07/) | Ten protein panel predicts ALS from plasma with high accuracy (Nature Communications, Oct 19, 2026) |
 | [2026-11-06](2026-11-06/) | TMEM106B C-Terminal fragment aggregation exacerbates α−synuclein and TDP-43 proteinopathy phenotypes (bioRxiv preprint, Oct 30, 2026) |
