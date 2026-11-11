@@ -1,0 +1,11 @@
+# Paper
+
+**Stathmin-2 regulates microtubule dynamics and axonal resilience in human motor neurons**
+Matson KJE, Petruconis CR, Hernandez A, Dave JR, Das S, Holzbaur ELF (Department of Physiology and Center for Brain Injury & Repair, Department of Neurosurgery, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA). Corresponding author: Erika L.F. Holzbaur.
+*bioRxiv* preprint, version 1 posted November 9, 2026 (cell biology). Not yet peer reviewed. CC BY 4.0.
+
+- DOI: https://doi.org/10.64898/2026.11.07.764673
+- bioRxiv: https://www.biorxiv.org/content/10.64898/2026.11.07.764673v1
+
+## One-line note
+Loss of nuclear TDP-43 (seen in ~97% of ALS) causes cryptic-exon inclusion in STMN2 and loss of Stathmin-2 protein; the authors also note reduced STMN2 in published datasets from ALS cervical spinal cord, laser-captured sporadic ALS motor neurons and TARDBP-mutant iPSC motor neurons. In TIRF assays with 10 µM tubulin, increasing recombinant STMN2 slowed microtubule growth, raised catastrophe frequency at 2 µM (p = 0.0013) and nearly abolished polymerization at 10 µM. In human iPSC-derived motor neurons, STMN2-targeting antisense oligonucleotides lowered STMN2 by 78%; this raised the polymerized-to-soluble tubulin ratio and increased plus-end (GFP-MACF43) signal at distal axon tips, but impaired recovery of microtubule polymerization after nocodazole washout (100 nM, 30 min) — STMN2 overexpression altered baseline growth without impairing recovery. STMN2-depleted axons showed reduced recoil after light-induced local microtubule severing (opto-katanin), fewer paused and more anterogradely moving mitochondria, and in 4-week motor neuron–human myocyte co-cultures formed no α-bungarotoxin-positive neuromuscular contacts (p = 0.0375). Endogenously tagged STMN2 moved bidirectionally in axons at KIF1A-like speeds. The authors propose STMN2 supports cytoskeletal "resilience" (repair after stress) and note the ANQUR Phase 1/2 trial of the STMN2-restoring ASO QRL-201, whose clinical benefit is not yet established. Limitations: preprint; cultured cells with experimentally reduced STMN2 rather than disease-driven loss; mechanism of the recovery defect unresolved; no patient outcomes. Summary based on the full preprint text (bioRxiv PDF).
