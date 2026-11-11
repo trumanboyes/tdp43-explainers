@@ -13,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-11-11](2026-11-11/) | Stathmin-2 regulates microtubule dynamics and axonal resilience in human motor neurons (bioRxiv preprint, Nov 9, 2026) |
 | [2026-11-10](2026-11-10/) | A validated antibody toolbox for ALS research (eLife, Nov 3, 2026) |
 | [2026-11-09](2026-11-09/) | Efficacy and tolerability of D-β-hydroxybutyrate ester in patients with amyotrophic lateral sclerosis (KETO-ALS) (eClinicalMedicine, Oct 26, 2026) |
 | [2026-11-08](2026-11-08/) | The TNKS/PI31–proteasome axis as a central node in TDP-43 neuropathies (Journal of Biomedical Science, Nov 4, 2026) |
