@@ -13,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-11-12](2026-11-12/) | Investigating the causal and consequential role of the nuclear encoded mitochondrial genome in Amyotrophic Lateral Sclerosis (bioRxiv preprint, Nov 11, 2026) |
 | [2026-11-11](2026-11-11/) | Stathmin-2 regulates microtubule dynamics and axonal resilience in human motor neurons (bioRxiv preprint, Nov 9, 2026) |
 | [2026-11-10](2026-11-10/) | A validated antibody toolbox for ALS research (eLife, Nov 3, 2026) |
 | [2026-11-09](2026-11-09/) | Efficacy and tolerability of D-β-hydroxybutyrate ester in patients with amyotrophic lateral sclerosis (KETO-ALS) (eClinicalMedicine, Oct 26, 2026) |
