@@ -13,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-11-15](2026-11-15/) | Circulating insulin-like growth factor 1 (IGF-1) and short-term functional change in amyotrophic lateral sclerosis (ALS): exploratory evidence for systemic trophic-metabolic reserve (medRxiv preprint, Nov 6, 2026) |
 | [2026-11-14](2026-11-14/) | A phase II, randomised, placebo-controlled, double-blind trial of cannabis extract for amyotrophic lateral sclerosis: the EMERALD trial (BMJ Neurology Open, Nov 11, 2026) |
 | [2026-11-13](2026-11-13/) | Simultaneous evoked CMAP recording and sonography reveal a prolonged electromechanical delay in ALS patients (Frontiers in Neurology, Oct 28, 2026) |
 | [2026-11-12](2026-11-12/) | Investigating the causal and consequential role of the nuclear encoded mitochondrial genome in Amyotrophic Lateral Sclerosis (bioRxiv preprint, Nov 11, 2026) |
