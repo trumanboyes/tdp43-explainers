@@ -13,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-11-16](2026-11-16/) | Power-law age-dependence supports phenotype-specific multistep architecture in MND (Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration, Nov 14, 2026) |
 | [2026-11-15](2026-11-15/) | Circulating insulin-like growth factor 1 (IGF-1) and short-term functional change in amyotrophic lateral sclerosis (ALS): exploratory evidence for systemic trophic-metabolic reserve (medRxiv preprint, Nov 6, 2026) |
 | [2026-11-14](2026-11-14/) | A phase II, randomised, placebo-controlled, double-blind trial of cannabis extract for amyotrophic lateral sclerosis: the EMERALD trial (BMJ Neurology Open, Nov 11, 2026) |
 | [2026-11-13](2026-11-13/) | Simultaneous evoked CMAP recording and sonography reveal a prolonged electromechanical delay in ALS patients (Frontiers in Neurology, Oct 28, 2026) |
