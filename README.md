@@ -13,6 +13,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-11-19](2026-11-19/) | Safety and efficacy of daily oral edaravone (FNP122) in patients with amyotrophic lateral sclerosis (ADORE): a multicentre, double-blind, phase 3, randomised controlled trial (The Lancet Neurology, Dec 2026) |
 | [2026-11-18](2026-11-18/) | Human Endogenous Retrovirus K RNA triggers cytoplasmic TDP-43 aggregation by initiating pathological nuclear condensates (bioRxiv preprint, Nov 17, 2026) |
 | [2026-11-17](2026-11-17/) | A Male-Specific Immunometabolic Peripheral Blood Mononuclear Cell Transcriptomic Signature in Amyotrophic Lateral Sclerosis (Journal of Clinical Neurology, Nov 4, 2026) |
 | [2026-11-16](2026-11-16/) | Power-law age-dependence supports phenotype-specific multistep architecture in MND (Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration, Nov 14, 2026) |
