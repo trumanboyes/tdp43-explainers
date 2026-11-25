@@ -2,6 +2,8 @@
 
 Short (2–3 minute) plain-English video explainers of recent ALS and TDP-43 research papers, one per night.
 
+Every episode has its own page on tdp43.org at `https://tdp43.org/explainers/YYYY-MM-DD.html` (for example https://tdp43.org/explainers/2026-11-19.html), with the video, the paper citation and the full transcript. The full list is at https://tdp43.org/explainers.html.
+
 Each dated folder contains:
 - `video.mp4` — narrated slide video
 - `audio.mp3` — narration audio only (from 2026-10-22 on)
