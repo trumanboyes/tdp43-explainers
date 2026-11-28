@@ -15,6 +15,7 @@ These are educational summaries, not medical advice. Always read the original pa
 ## Episodes
 | Date | Paper |
 | --- | --- |
+| [2026-11-28](2026-11-28/) | Circulating gelsolin tracks disease stage in amyotrophic lateral sclerosis across four cohorts (medRxiv preprint, Nov 20, 2026) |
 | [2026-11-27](2026-11-27/) | Neuronal cell-cycle re-entry stratifies clinical trajectories in amyotrophic lateral sclerosis (Brain, Nov 11, 2026) |
 | [2026-11-26](2026-11-26/) | ABBV-CLS-7262 in Amyotrophic Lateral Sclerosis: A Randomized Clinical Trial (JAMA Network Open, Nov 2, 2026) |
 | [2026-11-25](2026-11-25/) | In silico designed small molecule targets misfolded TDP-43 to rescue function and ALS pathology (bioRxiv preprint, Nov 17, 2026) |
